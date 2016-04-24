@@ -20,7 +20,7 @@ Wind Speed Concerns: > 19 mph
 Dew Point Concern: > 68 
 Wind Gusts: > 20 mph
 
-Near Me Widget: Drone No Fly Zones
+Near Me Proximity: Drone No Fly Zones
 Allows users to enter or pinpoint their location.
 Drone No Fly Zones will be listed within 1 - 15 miles from the initiated location. Slider is used.
 
