@@ -1,0 +1,16 @@
+This is an ArcGIS file. 
+
+File includes the following resources from Web Mapping Application:
+
+Airports 5m - 1m: Airports with hard surfaced runways & sunset to sunrise Airport Beacon
+Drone No Fly Zones with a 5 mile radius buffer.
+Current Wind & Weather conditions
+Satellite Imagery with labels
+
+Queries setup with the following parameters:
+Temperature Concerns: < 75 degrees F
+Wind Speed Concerns: > 19 mph
+Dew Point Concern: > 68 
+Wind Gusts: > 20 mph
+
+
